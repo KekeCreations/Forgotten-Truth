@@ -1,0 +1,1 @@
+attribute @s minecraft:scale modifier remove forgotten_truth:grow

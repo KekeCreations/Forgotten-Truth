@@ -19,7 +19,9 @@
                 "forgotten_truth:elastic",
                 "forgotten_truth:ghastly_breath",
                 "forgotten_truth:magma_thorns",
-                "forgotten_truth:phantom_push"
+                "forgotten_truth:phantom_push",
+                "forgotten_truth:altering",
+                "forgotten_truth:magical_growth"
               ]
             }
           ]
@@ -33,7 +35,8 @@
               "options": [
                 "forgotten_truth:formation_snapshot_portal",
                 "forgotten_truth:ice_age_snapshot_portal",
-                "forgotten_truth:bone_age_snapshot_portal"
+                "forgotten_truth:bone_age_snapshot_portal",
+                "forgotten_truth:prehistoric_snapshot_portal"
               ]
             }
           ]

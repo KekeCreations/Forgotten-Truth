@@ -1,0 +1,1 @@
+attribute @s minecraft:scale modifier add forgotten_truth:scale -0.5 add_value
