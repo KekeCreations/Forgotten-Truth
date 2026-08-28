@@ -5,24 +5,12 @@
     "biome_source": {
       "biomes": [
         {
-          "biome": "minecraft:plains",
+          "biome": "forgotten_truth:formation_plains",
           "parameters": {
             "continentalness": 0,
             "depth": 0,
             "erosion": 0,
             "humidity": 0,
-            "offset": 0,
-            "temperature": 0,
-            "weirdness": 0
-          }
-        },
-        {
-          "biome": "minecraft:forest",
-          "parameters": {
-            "continentalness": 0,
-            "depth": 0,
-            "erosion": 0,
-            "humidity": -0.5,
             "offset": 0,
             "temperature": 0,
             "weirdness": 0
@@ -49,18 +37,6 @@
             "humidity": 0.5,
             "offset": 0.375,
             "temperature": 0,
-            "weirdness": 0
-          }
-        },
-        {
-          "biome": "minecraft:birch_forest",
-          "parameters": {
-            "continentalness": 0,
-            "depth": 0,
-            "erosion": 0,
-            "humidity": 0,
-            "offset": 0.175,
-            "temperature": -0.5,
             "weirdness": 0
           }
         }
