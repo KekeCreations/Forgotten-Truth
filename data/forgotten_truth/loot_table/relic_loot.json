@@ -32,7 +32,8 @@
               "function": "minecraft:enchant_randomly",
               "options": [
                 "forgotten_truth:formation_snapshot_portal",
-                "forgotten_truth:ice_age_snapshot_portal"
+                "forgotten_truth:ice_age_snapshot_portal",
+                "forgotten_truth:bone_age_snapshot_portal"
               ]
             }
           ]
