@@ -8,7 +8,15 @@
       }
     },
     "minecraft:gameplay/increased_fire_burnout": true,
-    "minecraft:visual/sky_color": "#829fff"
+    "minecraft:visual/sky_color": "#829fff",
+     "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:snowflake"
+        },
+        "probability": 0.12
+      }
+    ]
   },
   "carvers": [
     "minecraft:cave",

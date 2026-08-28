@@ -1,6 +1,14 @@
 {
   "attributes": {
-    "minecraft:visual/sky_color": "#7fa1ff"
+    "minecraft:visual/sky_color": "#7fa1ff",
+     "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:snowflake"
+        },
+        "probability": 0.12
+      }
+    ]
   },
   "carvers": [
     "minecraft:cave",
@@ -73,7 +81,8 @@
       "minecraft:patch_firefly_bush_near_water"
     ],
     [
-      "minecraft:freeze_top_layer"
+      "minecraft:freeze_top_layer",
+      "minecraft:ice_spike"
     ]
   ],
   "has_precipitation": true,

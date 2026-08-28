@@ -34,7 +34,9 @@
     "minecraft:visual/cloud_color": "#ccffffff",
     "minecraft:visual/cloud_height": 192.33,
     "minecraft:visual/fog_color": "#c0d8ff",
-    "minecraft:visual/sky_color": "#bfd6ff"
+    "minecraft:visual/sky_color": "#bfd6ff",
+    "minecraft:visual/fog_end_distance": 96,
+    "minecraft:visual/fog_start_distance": 10
   },
   "coordinate_scale": 2,
   "default_clock": "minecraft:overworld",

@@ -1,6 +1,14 @@
 {
   "attributes": {
-    "minecraft:visual/sky_color": "#839eff"
+    "minecraft:visual/sky_color": "#839eff",
+     "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:snowflake"
+        },
+        "probability": 0.12
+      }
+    ]
   },
   "carvers": [
     "minecraft:cave",
