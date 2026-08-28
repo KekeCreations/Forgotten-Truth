@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 8,
+        "max": 12
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": [
+                "forgotten_truth:displace",
+                "forgotten_truth:divine_strike",
+                "forgotten_truth:elastic",
+                "forgotten_truth:ghastly_breath",
+                "forgotten_truth:magma_thorns",
+                "forgotten_truth:phantom_push"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:compass",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly",
+              "options": [
+                "forgotten_truth:formation_snapshot_portal",
+                "forgotten_truth:ice_age_snapshot_portal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
