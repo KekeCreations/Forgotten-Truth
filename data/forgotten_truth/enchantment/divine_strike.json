@@ -12,10 +12,10 @@
     "per_level_above_first": 0
   },
   "max_cost": {
-    "base": 0,
+    "base": 60,
     "per_level_above_first": 0
   },
-  "anvil_cost": 0,
+  "anvil_cost": 40,
   "slots": [],
   "effects": {
     "minecraft:damage": [
