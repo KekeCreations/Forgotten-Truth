@@ -1,0 +1,72 @@
+{
+  "type": "forgotten_truth:ice_age",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "biomes": [
+        {
+          "biome": "forgotten_truth:ice_age_plains",
+          "parameters": {
+            "continentalness": 0,
+            "depth": 0,
+            "erosion": 0,
+            "humidity": 0,
+            "offset": 0,
+            "temperature": 0,
+            "weirdness": 0
+          }
+        },
+        {
+          "biome": "forgotten_truth:ice_age_beach",
+          "parameters": {
+            "continentalness": 0,
+            "depth": 0,
+            "erosion": 0,
+            "humidity": -0.5,
+            "offset": 0,
+            "temperature": 0,
+            "weirdness": 0
+          }
+        },
+        {
+          "biome": "forgotten_truth:ice_age_ocean",
+          "parameters": {
+            "continentalness": 0,
+            "depth": 0,
+            "erosion": 0,
+            "humidity": 0,
+            "offset": 0,
+            "temperature": 0.4,
+            "weirdness": 0
+          }
+        },
+        {
+          "biome": "forgotten_truth:ice_age_slopes",
+          "parameters": {
+            "continentalness": 0,
+            "depth": 0,
+            "erosion": 0,
+            "humidity": 0.5,
+            "offset": 0.375,
+            "temperature": 0,
+            "weirdness": 0
+          }
+        },
+        {
+          "biome": "forgotten_truth:ice_age_taiga",
+          "parameters": {
+            "continentalness": 0,
+            "depth": 0,
+            "erosion": 0,
+            "humidity": 0,
+            "offset": 0.175,
+            "temperature": -0.5,
+            "weirdness": 0
+          }
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "settings": "minecraft:overworld"
+  }
+}
