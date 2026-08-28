@@ -18,6 +18,10 @@
   "effects": {
     "minecraft:post_attack": [
       {
+        "requirements": {
+          "condition": "minecraft:random_chance",
+          "chance": 0.05
+        },
         "effect": {
           "type": "minecraft:apply_mob_effect",
           "to_apply": "minecraft:slowness",
