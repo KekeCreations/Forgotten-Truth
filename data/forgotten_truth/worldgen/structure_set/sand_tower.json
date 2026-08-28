@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "forgotten_truth:sand_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 20,
+    "spread_type": "linear",
+    "salt": 702
+  }
+}

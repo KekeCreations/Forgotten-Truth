@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "forgotten_truth:small_bone_campfire",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 15,
+    "spread_type": "linear",
+    "salt": 8000
+  }
+}

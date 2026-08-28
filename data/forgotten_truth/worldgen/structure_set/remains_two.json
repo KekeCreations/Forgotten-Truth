@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "forgotten_truth:remains_two",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 10,
+    "separation": 4,
+    "spread_type": "linear",
+    "salt": 240
+  }
+}

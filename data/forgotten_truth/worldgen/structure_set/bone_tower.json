@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "forgotten_truth:bone_tower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 25,
+    "spread_type": "linear",
+    "salt": 1832
+  }
+}
