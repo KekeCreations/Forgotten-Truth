@@ -3,10 +3,46 @@
   "pools": [
     {
       "rolls": {
-        "min": 8,
-        "max": 12
+        "min": 20,
+        "max": 22
       },
       "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:sponge"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:heart_of_the_sea"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:netherite_scrap"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lapis_lazuli"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:lapis_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond"
+        },
         {
           "type": "minecraft:item",
           "name": "minecraft:book",
