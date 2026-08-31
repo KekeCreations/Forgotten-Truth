@@ -13,13 +13,14 @@
     "minecraft:gameplay/sky_light_level": 4,
     "minecraft:gameplay/snow_golem_melts": true,
     "minecraft:gameplay/water_evaporates": false,
-    "minecraft:visual/ambient_light_color": "#9b3200",
+    "minecraft:visual/ambient_light_color": "#ffccb0",
     "minecraft:visual/default_dripstone_particle": {
       "type": "minecraft:dripping_dripstone_lava"
     },
     "minecraft:visual/fog_end_distance": 96,
     "minecraft:visual/fog_start_distance": 10,
-    "minecraft:visual/sky_light_color": "#ff8040",
+    "minecraft:visual/sky_light_color": "#ffc5a8",
+    "minecraft:visual/fog_color": "#a62100",
     "minecraft:visual/sky_light_factor": 0
   },
   "cardinal_light": "nether",

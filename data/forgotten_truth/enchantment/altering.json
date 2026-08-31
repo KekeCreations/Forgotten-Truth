@@ -41,6 +41,18 @@
         "enchanted": "attacker",
         "affected": "victim"
       }
+    ],
+    "minecraft:damage": [
+      {
+        "requirements": {
+          "condition": "minecraft:random_chance",
+          "chance": 0.5
+        },
+        "effect": {
+          "type": "minecraft:add",
+          "value": 4
+        }
+      }
     ]
   }
 }
